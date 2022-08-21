@@ -125,20 +125,27 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Sayyiku">
+            <img src="https://avatars.githubusercontent.com/u/77047823?v=4" width="80;" alt="Sayyiku"/>
+            <br />
+            <sub><b>Emilia Tan</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/onedr0p">
             <img src="https://avatars.githubusercontent.com/u/213795?v=4" width="80;" alt="onedr0p"/>
             <br />
             <sub><b>ᗪєνιη ᗷυнʟ</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/alexdelprete">
             <img src="https://avatars.githubusercontent.com/u/7027842?v=4" width="80;" alt="alexdelprete"/>
             <br />
             <sub><b>Alessandro Del Prete</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/BOZG">
             <img src="https://avatars.githubusercontent.com/u/6022344?v=4" width="80;" alt="BOZG"/>
@@ -173,20 +180,13 @@
             <br />
             <sub><b>K073l</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/patrickheeney">
             <img src="https://avatars.githubusercontent.com/u/1407228?v=4" width="80;" alt="patrickheeney"/>
             <br />
             <sub><b>Patrick Heeney</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/Sayyiku">
-            <img src="https://avatars.githubusercontent.com/u/77047823?v=4" width="80;" alt="Sayyiku"/>
-            <br />
-            <sub><b>Emilia Tan</b></sub>
         </a>
     </td>
     <td align="center">
