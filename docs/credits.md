@@ -104,6 +104,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Sayyiku">
+            <img src="https://avatars.githubusercontent.com/u/77047823?v=4" width="80;" alt="Sayyiku"/>
+            <br />
+            <sub><b>Emilia Tan</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/alucarddelta">
             <img src="https://avatars.githubusercontent.com/u/20882097?v=4" width="80;" alt="alucarddelta"/>
             <br />
@@ -122,13 +129,6 @@
             <img src="https://avatars.githubusercontent.com/u/37040069?v=4" width="80;" alt="stanly0726"/>
             <br />
             <sub><b>Stanly0726</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Sayyiku">
-            <img src="https://avatars.githubusercontent.com/u/77047823?v=4" width="80;" alt="Sayyiku"/>
-            <br />
-            <sub><b>Emilia Tan</b></sub>
         </a>
     </td>
     <td align="center">
@@ -168,20 +168,27 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ImgBotApp">
+            <img src="https://avatars.githubusercontent.com/u/31427850?v=4" width="80;" alt="ImgBotApp"/>
+            <br />
+            <sub><b>Imgbot</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/rubenandre">
             <img src="https://avatars.githubusercontent.com/u/9402773?v=4" width="80;" alt="rubenandre"/>
             <br />
             <sub><b>Rúben Silva</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/k073l">
             <img src="https://avatars.githubusercontent.com/u/21180271?v=4" width="80;" alt="k073l"/>
             <br />
             <sub><b>K073l</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/patrickheeney">
             <img src="https://avatars.githubusercontent.com/u/1407228?v=4" width="80;" alt="patrickheeney"/>
@@ -208,13 +215,6 @@
             <img src="https://avatars.githubusercontent.com/u/41448663?v=4" width="80;" alt="BRAVO68WEB"/>
             <br />
             <sub><b>Jyotirmoy Bandyopadhyaya [Bravo68]</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/BeginCI">
-            <img src="https://avatars.githubusercontent.com/u/57495754?v=4" width="80;" alt="BeginCI"/>
-            <br />
-            <sub><b>Begin</b></sub>
         </a>
     </td></tr>
 </table>
